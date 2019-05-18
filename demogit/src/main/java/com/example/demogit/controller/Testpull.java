@@ -12,6 +12,5 @@ public class Testpull {
 
 
     //远程服务器更新了，我也不知道，在自己分支中开发代码，突然要切换到Dev分支去。也没保存即add，commit
-    //caicaicai
-    //zhe ge hao keng a
+    //。。。测试Git撤销
 }
