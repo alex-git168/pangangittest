@@ -12,4 +12,5 @@ public class Testpull {
 
 
     //远程服务器更新了，我也不知道，在自己分支中开发代码，突然要切换到Dev分支去。也没保存即add，commit
+    //在平安中的分支是DEV的我就跟新了一次并push到了服务器
 }
